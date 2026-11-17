@@ -1,6 +1,8 @@
-# Mapit plugin for AI assistants
+# My Mapit for Claude Code and Codex: the official Mapit plugin
 
-Official [Mapit](https://mapit.me) plugin. Ask your AI assistant about your own Mapit motorbike: account, vehicles, subscription, last reported location and route history. Everything is read-only.
+The official plugin for AI assistants, made and maintained by [Mapit](https://mapit.me). Mapit lists its official and approved apps at <https://developers.mapit.me/approved-apps>. Other projects that use Mapit are not endorsed by Mapit unless they are listed there.
+
+Ask your AI assistant about your own Mapit motorbike: account, vehicles, subscription, last reported location and route history. Everything is read-only.
 
 > **Beta, free for now.** The My Mapit connector is a beta: it may change or stop working, it has no uptime promise, and Mapit does not charge for it today. Do not rely on it for emergencies or to recover a stolen bike: use the Mapit app. Use is subject to the [Mapit API Terms of Use](https://developers.mapit.me/terms) and [Privacy Notice](https://developers.mapit.me/privacy), for personal, non-commercial use.
 
