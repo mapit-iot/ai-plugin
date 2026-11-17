@@ -1,0 +1,37 @@
+{
+  "name": "mapit",
+  "version": "0.1.5",
+  "description": "Ask about your own Mapit motorbike: account, vehicles, subscription, last reported location and route history, through the read-only My Mapit connector",
+  "author": {
+    "name": "Mapit",
+    "url": "https://mapit.me"
+  },
+  "homepage": "https://github.com/mapit-iot/ai-plugin",
+  "repository": "https://github.com/mapit-iot/ai-plugin",
+  "license": "MIT",
+  "keywords": [
+    "mapit",
+    "motorbike",
+    "gps",
+    "routes",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "My Mapit",
+    "shortDescription": "Your Mapit motorbike: location, routes and subscription",
+    "longDescription": "Ask about your own Mapit motorbike: account, vehicles, subscription, last reported location and route history, through the read-only My Mapit connector. Read-only; location and routes need your consent on the Mapit sign-in page.",
+    "developerName": "Mapit",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://mapit.me",
+    "defaultPrompt": [
+      "Where is my bike?",
+      "What rides did I do yesterday?",
+      "How many km have I ridden this month?"
+    ]
+  }
+}

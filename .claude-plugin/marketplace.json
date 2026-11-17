@@ -1,0 +1,32 @@
+{
+  "name": "mapit",
+  "owner": {
+    "name": "Mapit",
+    "url": "https://mapit.me"
+  },
+  "description": "Official Mapit plugin for AI assistants.",
+  "plugins": [
+    {
+      "name": "mapit",
+      "displayName": "My Mapit",
+      "source": "./",
+      "description": "Ask about your own Mapit motorbike: account, vehicles, subscription, last reported location and route history, through the read-only My Mapit connector",
+      "version": "0.1.5",
+      "author": {
+        "name": "Mapit",
+        "url": "https://mapit.me"
+      },
+      "homepage": "https://github.com/mapit-iot/ai-plugin",
+      "repository": "https://github.com/mapit-iot/ai-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "mapit",
+        "motorbike",
+        "gps",
+        "routes",
+        "mcp"
+      ]
+    }
+  ]
+}

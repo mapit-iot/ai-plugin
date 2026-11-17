@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "my-mapit": {
+      "type": "http",
+      "url": "https://api.mapit.me/mcp"
+    }
+  }
+}
