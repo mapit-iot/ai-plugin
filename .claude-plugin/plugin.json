@@ -2,11 +2,12 @@
   "name": "mapit",
   "displayName": "My Mapit",
   "description": "Ask about your own Mapit motorbike: account, vehicles, subscription, last reported location and route history, through the read-only My Mapit connector",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "author": {
     "name": "Mapit",
     "url": "https://mapit.me"
   },
+  "icon": "./assets/logo.png",
   "homepage": "https://github.com/mapit-iot/ai-plugin",
   "repository": "https://github.com/mapit-iot/ai-plugin",
   "license": "MIT",

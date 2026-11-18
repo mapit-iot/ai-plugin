@@ -1,6 +1,6 @@
 {
   "name": "mapit",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Ask about your own Mapit motorbike: account, vehicles, subscription, last reported location and route history, through the read-only My Mapit connector",
   "author": {
     "name": "Mapit",
@@ -24,6 +24,8 @@
     "longDescription": "Ask about your own Mapit motorbike: account, vehicles, subscription, last reported location and route history, through the read-only My Mapit connector. Read-only; location and routes need your consent on the Mapit sign-in page.",
     "developerName": "Mapit",
     "category": "Productivity",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
     "capabilities": [
       "Read"
     ],
